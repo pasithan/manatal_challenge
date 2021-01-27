@@ -1,1 +1,1 @@
-web: gunicorn manataltest.wsgi
+web:gunicorn manataltest.wsgi
