@@ -1,5 +1,6 @@
 # manatal_challenge
-Time spend for each challenge
+Time spent for each challenge
+
 Python challenge:
 - exercise1: 3 minutes
 - exercise2: 19 minutes

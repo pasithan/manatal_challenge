@@ -1,0 +1,1 @@
+web: gunicorn manataltest.wsgi --log-file -
